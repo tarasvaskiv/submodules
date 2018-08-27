@@ -1,0 +1,4 @@
+[submodule "src/openprocurement.tender.limited"]
+	path = src/openprocurement.tender.limited
+	url = https://github.com/openprocurement/openprocurement.tender.limited.git
+	branch = production
